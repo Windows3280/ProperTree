@@ -1,15 +1,15 @@
 # What is it?
 
 ProperTree is a cross-platform GUI plist editor written using Python *(compatible with both 2.x and 3.x)* and Tkinter.
-CorpNewt made ProperTree, I ported it as normal apps.
+CorpNewt made ProperTree, I ported it as normal apps. (No Linux)
 
 ## Issues
 
-Not associates with plists on Windows and Linux.
+Not associates with plists on Windows.
 
 ## Features
 
-- [x] Cross-platform - should work anywhere python and tkinter do
+- [x] Cross-platform - should work anywhere python and tkinter do (source version)
 - [x] Document-based to support multiple windows
 - [x] Node drag and drop to reorder
 - [x] Copy and paste
